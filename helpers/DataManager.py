@@ -1,15 +1,9 @@
-# import helpers
-#
-#
-# def makeRestCall(url):
+
 
 # let url = "https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf/1467271812596.ajax?fileType=csv&fileName=" + ticker + "_holdings&dataType=fund"
 
 # let url = "https://ts-api.cnbc.com/harmony/app/bars/" + ticker + "/30M/20181113000000/20190215000000/adjusted/EST5EDT.json"
 
-# API_KEY = IM0BYHVOQDC8SFBR
-
-# https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=AAPL&outputsize=compact&apikey=IM0BYHVOQDC8SFBRdatatype=json
 
 import requests
 
